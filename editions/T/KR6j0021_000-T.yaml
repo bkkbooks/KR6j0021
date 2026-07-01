@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0021/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那經阿闍梨真實智品中阿闍梨住阿字觀門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0863.xml
+    old_id: T18n0863
+hash: sha256:f5f4aa867585f8bcf6073f4717f79ad3f8c23661edb3b2480883a019cfb93995

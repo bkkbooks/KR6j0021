@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR6j0021/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0021/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那經阿闍梨真實智品中阿闍梨住阿字觀門
+  identifiers:
+    krp: KR6j0021
+    cbeta: T18n0863
+    cbeta_old_id: T18n0863
+    authorityid: CA0000649
+    json_key: T0863
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0863.xml
+    old_id: T18n0863
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0021_000-T.yaml, hash: 'sha256:f5f4aa867585f8bcf6073f4717f79ad3f8c23661edb3b2480883a019cfb93995'}
+  - {seq: 1, filename: KR6j0021_001-T.yaml, hash: 'sha256:8eae9590b6a631c37036d95f3486773682f77b9225deedbf4a3f30ae7afb9616'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0021_000-T.markers.yaml, hash: 'sha256:22cc05a1c70969b1c2d18865b51507afaf43c87f2c7a896ed21856e90802b57e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0021_001-T.markers.yaml, hash: 'sha256:3774248845a6b175d4bc44a359d8cf76742ce3c90fdcb0eba8998d655f6455dd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0021_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3071
+  label: '大毘盧遮那經阿闍梨真實智品
+
+    中阿闍梨住阿字觀門亦名四重字輪曼荼羅成身觀，亦名三重
+
+    布字成身曼荼羅觀行'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0021_T_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 成入理軌儀
+  type: mulu
+  level: 1
+hash: sha256:2c99fe26175138af8a3015248611c50a31bf5797ef742e13376fd876340961c4
