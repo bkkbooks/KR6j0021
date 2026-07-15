@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0021/v1
 canonical_location: https://kanripo.org/bkk/KR6j0021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大毘盧遮那經阿闍梨真實智品中阿闍梨住阿字觀門
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0021_000.yaml, hash: 'sha256:f5f4aa867585f8bcf6073f4717f79ad3f8c23661edb3b2480883a019cfb93995'}
-  - {seq: 1, filename: KR6j0021_001.yaml, hash: 'sha256:8eae9590b6a631c37036d95f3486773682f77b9225deedbf4a3f30ae7afb9616'}
+  - {seq: 1, filename: KR6j0021_001.yaml, hash: 'sha256:2307b6d1e7f909d134eb8eb01e191612824528c47b39ac89e8012b867404973f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0021_000.markers.yaml, hash: 'sha256:fb635818f710ab149353e945f8c4bd4ddad2ea58d3adb2b022f34b5182387062'}
-  - {seq: 1, role: markers, filename: assets/KR6j0021_001.markers.yaml, hash: 'sha256:8918b17f42abbbec30749188a3c45aa948629071812b17ade9059fe77cffd62a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0021_001.markers.yaml, hash: 'sha256:82d36855b867e8d024d8b83dcb181eb9c95b67a2baad68b55b9fc2639856bced'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,4 +54,7 @@ table_of_contents:
   label: 成入理軌儀
   type: mulu
   level: 1
-hash: sha256:f0ae33d71a66432631d18fff2dad6dbda4e316724e05926c5c517cbc833ac1bc
+hash: sha256:12b4e2e9e3c18fd583b9e05b3db330fbc96fb9af4d00777f7f2319a6da199f8e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
